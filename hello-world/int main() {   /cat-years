@@ -1,0 +1,8 @@
+int main() {
+  double idadeGato; 
+  std::cout << "Qual a idade de seu gato? ";
+  std::cin >> idadeGato;
+
+  double humano = (idadeGato - 2) * 4 + 24;
+  std::cout << "Seu gato possui " << humano << " anos em idade de humanos";
+}
