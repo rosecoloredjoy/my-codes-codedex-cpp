@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+  // Write code here
+  double celsius;
+  int fahrenheit = 66;
+  celsius = (fahrenheit - 32) / 1.8;
+  std::cout << celsius;
+}
