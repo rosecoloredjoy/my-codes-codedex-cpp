@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+ std::cout << "Goodbye!\n";
+ std::cout << "Tchau\n";
+ std::cout << "Adiós\n";
+ std::cout << "Au revoir\n";
+ std::cout << "Arrivederci\n";
+}
